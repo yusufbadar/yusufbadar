@@ -15,20 +15,15 @@
 * Data Science
 * Frontend and Backend Web Development
 
-## 🔤 Programming Languages
-<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png" height="30"/> 
-<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg" width="30"/> 
-<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg" width="30"/> 
-<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg" width="30"/> 
-<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg" width="30"/>
+## 🧠 Programming Languages  
+<p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40"/>
+</p>
 
-## 🛠️ Technologies I Use
-<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg" width="30"/>  
-<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg" width="33"/>
-<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg" width="30"/>
-<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg" width="33"/>
-<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg" height="40"/>
-<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png" width="30"/>
 
 ## 👤 Who am I?
 ```python
