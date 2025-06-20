@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusufbadar" alt="Profile Views" /> </p>
 
 <div align="center">
-  <strong><span style="font-size: 24px;">"If you risk nothing, then you risk everything."</span></strong>
+  <strong><em><span style="font-size: 24px;">"If you risk nothing, then you risk everything."</span></em></strong>
 </div>
 
 ## 💻 Technologies I Love
