@@ -3,7 +3,7 @@
 <h1>Welcome to my humble abode in the Digital World..</h1> 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Yusuf%20Badar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yusuf-badar/)](https://www.linkedin.com/in/yusuf-badar/) 
-[![Gmail Badge](https://img.shields.io/badge/-asterp04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:asterp04@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-asterp04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:ybadar13@gmail.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="Profile Views" /> </p>
 
