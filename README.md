@@ -58,4 +58,3 @@ class WhoAmI:
 ```
 ## Other Stuff
   - :octocat: [My Resume](https://docs.google.com/document/d/1BA-yNGz71Eo1d_zYBL4KTTAlE-WbtdOSfAb24tii57E/edit?usp=sharing)
-![Yusuf's github stats](https://github-readme-stats.vercel.app/api?username=yusufbadar&show_icons=true&hide=[%22issues%22])
