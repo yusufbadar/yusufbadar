@@ -1,4 +1,4 @@
-## Hey, [Yusuf here!]
+## Hey, [Yusuf here!] 👋
 
 <h1>Console.log('Welcome, curious traveler.')</h1>
 
