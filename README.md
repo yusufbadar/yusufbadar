@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusufbadar" alt="Profile Views" /> </p>
 
-<div align="right"><em>"If you risk nothing, then you risk everything."</em></div>
+<div align="center"><em>"If you risk nothing, then you risk everything."</em></div>
 
 ## 💻 Technologies I Love
 * Artificial Intelligence
