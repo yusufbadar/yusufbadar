@@ -42,7 +42,7 @@ class WhoAmI:
 
     def Ambitions():
         return [
-            'Be successful in FinTech',
+            'Be successful',
             'Become a full-stack developer',
             'Build meaningful products',
             'Live a fulfilling life'
