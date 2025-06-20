@@ -1,6 +1,6 @@
 ## Hey, [Yusuf here!]
 
-<h1>Welcome to my humble abode in the Digital World..</h1> 
+<h1>Console.log('Welcome, curious traveler.')</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Yusuf%20Badar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yusuf-badar/)](https://www.linkedin.com/in/yusuf-badar/) 
 [![Gmail Badge](https://img.shields.io/badge/-ybadar13@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:ybadar13@gmail.com)
