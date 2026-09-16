@@ -57,4 +57,4 @@ class WhoAmI:
         ]
 ```
 ## Other Stuff
-  - :octocat: [My Resume](./Yusufs_resume (1).pdf)
+  - :octocat: [My Resume](<Yusufs_Resume (1).pdf>)
