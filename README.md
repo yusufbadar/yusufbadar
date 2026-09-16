@@ -57,4 +57,4 @@ class WhoAmI:
         ]
 ```
 ## Other Stuff
-  - :octocat: [My Resume](https://docs.google.com/document/d/1BA-yNGz71Eo1d_zYBL4KTTAlE-WbtdOSfAb24tii57E/edit?usp=sharing)
+  - :octocat: [My Resume](./Yusufs_resume (1).pdf)
